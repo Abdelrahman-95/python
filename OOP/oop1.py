@@ -15,9 +15,9 @@ import functools
 #     return names.title()
 
 # new_names = map(mytitle, names)
-new_names = map(lambda x:x.title(),names)
+# new_names = map(lambda x:x.title(),names)
 
-print(list(new_names))
+# print(list(new_names))
 
 
 
